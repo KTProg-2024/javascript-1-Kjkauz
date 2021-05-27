@@ -2,3 +2,27 @@ p {
 	font-family: Arial;
 	color: red;
 }
+a {
+  background-color: rgb(0, 255, 0);
+  color: white;
+}
+b {
+  background-color: red;
+  color: black
+}
+c {
+  background-color: blue;
+  color: aqua;
+}
+d {
+  background-color: gray;
+  color: lightgray;
+}
+e {
+  background-color: white;
+  color: black;
+}
+f {
+  background-color: yellow;
+  color: goldenrod;
+}
